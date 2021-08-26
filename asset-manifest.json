@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/duet-idpc/static/css/main.70f88a15.chunk.css",
+    "main.js": "/duet-idpc/static/js/main.b24d14ed.chunk.js",
+    "main.js.map": "/duet-idpc/static/js/main.b24d14ed.chunk.js.map",
+    "runtime-main.js": "/duet-idpc/static/js/runtime-main.6fc314d4.js",
+    "runtime-main.js.map": "/duet-idpc/static/js/runtime-main.6fc314d4.js.map",
+    "static/js/2.3bb87c45.chunk.js": "/duet-idpc/static/js/2.3bb87c45.chunk.js",
+    "static/js/2.3bb87c45.chunk.js.map": "/duet-idpc/static/js/2.3bb87c45.chunk.js.map",
+    "index.html": "/duet-idpc/index.html",
+    "static/css/main.70f88a15.chunk.css.map": "/duet-idpc/static/css/main.70f88a15.chunk.css.map",
+    "static/js/2.3bb87c45.chunk.js.LICENSE.txt": "/duet-idpc/static/js/2.3bb87c45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fc314d4.js",
+    "static/js/2.3bb87c45.chunk.js",
+    "static/css/main.70f88a15.chunk.css",
+    "static/js/main.b24d14ed.chunk.js"
+  ]
+}
