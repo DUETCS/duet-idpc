@@ -344,7 +344,18 @@ body {
 }
 
 .duetcs_logo {
-  height: 150px;
-  width: 200px;
+  width: 150px;
+  height: 100px;
   object-fit: cover;
+}
+
+.idpc_logo {
+  width: 100;
+  height: 80px;
+  object-fit: cover;
+}
+
+.logo_container {
+  display: flex;
+  justify-content: space-around;
 }
